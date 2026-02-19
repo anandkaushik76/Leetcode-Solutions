@@ -3,7 +3,7 @@ public:
     int mySqrt(int x) {
         int result=0;
         for(int i=1;i<=x; i++){
-            if((long long)i*i<=x) {
+            if((double)i*i<=x) {
                 result= i;
             }
             else{
