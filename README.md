@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/2652-sum-multiples) |
 ## Dynamic Programming
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0169-majority-element](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
