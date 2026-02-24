@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0507-perfect-number](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/2652-sum-multiples) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0877-stone-game](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
@@ -81,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
