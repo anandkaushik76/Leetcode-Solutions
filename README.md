@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0507-perfect-number) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
