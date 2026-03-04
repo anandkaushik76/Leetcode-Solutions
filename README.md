@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [2396-strictly-palindromic-number](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/2652-sum-multiples) |
 ## Dynamic Programming
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [2396-strictly-palindromic-number](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0258-add-digits) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
