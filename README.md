@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1089-duplicate-zeros](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
