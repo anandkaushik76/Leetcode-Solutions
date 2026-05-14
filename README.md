@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2784-check-if-array-is-good](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [2784-check-if-array-is-good](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 ## Counting
 |  |
 | ------- |
