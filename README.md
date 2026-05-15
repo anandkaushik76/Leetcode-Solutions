@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0202-happy-number) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0179-largest-number) |
@@ -250,11 +253,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Counting Sort
 |  |
