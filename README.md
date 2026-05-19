@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [1089-duplicate-zeros](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/1089-duplicate-zeros) |
 | [2396-strictly-palindromic-number](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
+| [2540-minimum-common-value](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [2540-minimum-common-value](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 ## Array
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2540-minimum-common-value](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2540-minimum-common-value](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 ## Divide and Conquer
 |  |
