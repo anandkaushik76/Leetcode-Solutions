@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/0319-bulb-switcher) |
 | [2396-strictly-palindromic-number](https://github.com/anandkaushik76/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Heap (Priority Queue)
 |  |
